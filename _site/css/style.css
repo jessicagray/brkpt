@@ -1012,6 +1012,10 @@ input[type="submit"] {
 
 
 /******** Custom Captions ********/
+.tp-caption.extra_big_font_size {
+	font-size: 52px;
+	line-height: 52px;
+}
 .tp-caption.big_font_size {
 	font-size: 36px;
 	line-height: 36px;
