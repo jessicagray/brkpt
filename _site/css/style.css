@@ -314,7 +314,7 @@ input[type="submit"] {
 	display: inline-block;
 	position: absolute;
 	top: 0;
-	background-color: #0a9fd8;
+	background-color: #f36510;
 	border-radius: 100%;
 	-webkit-animation: bouncee 2.0s infinite ease-in-out;
 	animation: bouncee 2.0s infinite ease-in-out;
@@ -1012,10 +1012,6 @@ input[type="submit"] {
 
 
 /******** Custom Captions ********/
-.tp-caption.extra_big_font_size {
-	font-size: 52px;
-	line-height: 52px;
-}
 .tp-caption.big_font_size {
 	font-size: 36px;
 	line-height: 36px;
@@ -1795,6 +1791,11 @@ input[type="submit"] {
 	background-color: transparent;
 	border: 1px solid #fff;
 	color: #fff;
+}
+
+.btn-extra-large {
+	font-size: 16px;
+	padding: 13px 85px;
 }
 
 .btn-large {

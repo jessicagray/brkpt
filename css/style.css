@@ -1793,6 +1793,11 @@ input[type="submit"] {
 	color: #fff;
 }
 
+.btn-extra-large {
+	font-size: 16px;
+	padding: 13px 85px;
+}
+
 .btn-large {
 	font-size: 14px;
 	padding: 9px 22px;
